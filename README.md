@@ -20,6 +20,11 @@ Aqui você encontrará:
 - Notebooks com análises e gráficos
 - Dados utilizados para prática (quando permitido)
 
+## Como usar
+
+1. Clone este repositório: (https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv)
+2. Instale as dependências: pip install -r requirements.txt
+3. Explore os notebooks e scripts para aprender junto comigo!
 
 ## Contato
 
